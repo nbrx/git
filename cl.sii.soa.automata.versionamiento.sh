@@ -1,5 +1,5 @@
 #!/bin/bash
-nombreServicio=cl.sii.$1-soa
+nombreServicio=cl.group.$1-soa
 groupId=$2
 JIRA=$3
 artifactId=$1
